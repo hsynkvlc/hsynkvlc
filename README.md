@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hsynkvlc
-- 👀 I’m interested in Mobile Applications 
-- 🌱 I’m currently learning React-Native
+- 👀 I’m interested in Cloud Technologies
+- 🌱 I’m currently learning Azure, AWS and GCP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin.com/in/hkavalci/
 

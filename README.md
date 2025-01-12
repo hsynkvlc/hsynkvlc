@@ -1,28 +1,30 @@
-💼 About Me
+## 💼 About Me
 
-Hi! I'm a Web & Digital Analyst with 2 years of experience in Google Tag Manager (GTM), Google Analytics 4 (GA4), Google Ads, and Google Merchant Center (GMC). I specialize in conversion tracking, data analysis, and implementing marketing tools for better performance insights.
+Hi! I'm a **Web & Digital Analyst** with 2 years of experience in **Google Tag Manager (GTM)**, **Google Analytics 4 (GA4)**, **Google Ads**, and **Google Merchant Center (GMC)**. I specialize in **conversion tracking**, **data analysis**, and implementing marketing tools for better performance insights.  
 
-Currently, I'm expanding my expertise into business intelligence and data analysis, preparing for roles like Business Analyst and Technical Web Analyst.
+Currently, I'm expanding my expertise into **business intelligence** and **data analysis**, preparing for roles like **Business Analyst** and **Technical Web Analyst**.  
 
-🔎 Key Skills:
+---
 
-GTM, GA4, Google Ads, GMC
+### 🔎 Key Skills
 
-Conversion Tracking Strategy & Implementation
+- GTM, GA4, Google Ads, GMC  
+- Conversion Tracking Strategy & Implementation  
+- WordPress Website Development  
+- Data Analysis & Reporting  
 
-WordPress Website Development
+---
 
-Data Analysis & Reporting
+### 📚 Currently Learning
 
-📚 Currently Learning:
+- **SQL** 
+- **Python** 
+- Business Intelligence Tools (**Tableau**, **Power BI**)  
+- UTM Parameter Standardization  
+- Chrome Extension Development (like **Google Tag Assistant**)  
 
-SQL
+---
 
-Python 
+### 📫 Let’s Connect
 
-Business Intelligence Tools (Tableau, Salesforce)
-
-UTM Parameter Standardization
-
-📫 **Let’s Connect:**  
-[LinkedIn](https://www.linkedin.com/in/hkavalci/) | [Email](mailto:hsynkavalci@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hkavalci/) | [Email](mailto:hsynkavalci@gmail.com)  

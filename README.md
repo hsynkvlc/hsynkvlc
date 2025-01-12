@@ -16,3 +16,6 @@ SQL
 Python 
 Business Intelligence Tools (Tableau, Salesforce)
 UTM Parameter Standardization
+
+📫 **Let’s Connect:**  
+[LinkedIn](https://www.linkedin.com/in/hkavalci/) | [Email](mailto:hsynkavalci@gmail.com)

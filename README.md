@@ -95,4 +95,4 @@ A powerful Chrome extension I developed for debugging Google Tag Manager, Google
 
 ---
 
-💡 *Open to collaboration on marketing analytics tools and Chrome extensions*
+💡 *Open to collaboration on marketing analytics tools*

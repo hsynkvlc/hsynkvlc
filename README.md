@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hüseyin Kavalcı
+# 👋 Hi, I'm Hüseyin
 
 **Google Ads Account Manager | Digital Analytics Specialist | Chrome Extension Developer**
 
